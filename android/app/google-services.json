@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "215483629824",
+    "project_id": "ilkbizde-7c9eb",
+    "storage_bucket": "ilkbizde-7c9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215483629824:android:6b1913d349f452dad233e5",
+        "android_client_info": {
+          "package_name": "com.app.ilkbizde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215483629824-fd3fucv4jq0hqcmi7tmafdl959mfqnnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ilkbizde",
+            "certificate_hash": "80c566c5ca8f6ac110dfda4c0b3bcf1ff0e382f6"
+          }
+        },
+        {
+          "client_id": "215483629824-rs7ptt0q2eh7fmgirv8198j5cs6vv3cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ilkbizde",
+            "certificate_hash": "2f36d73e6e8f0739855de5ba438106648ba4d471"
+          }
+        },
+        {
+          "client_id": "215483629824-ves1j6e1a41dgii00acd9j1ntd75rfb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ilkbizde",
+            "certificate_hash": "cc6e81ea71b05230f457414ce1eca63970007867"
+          }
+        },
+        {
+          "client_id": "215483629824-evh1nk6i4183prfppq6omqqh40ii8v64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ2q6rQ6eZlMPDKgT3EakXmt7SZEqjMxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215483629824-evh1nk6i4183prfppq6omqqh40ii8v64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215483629824-a9monjfi92m81q0tmd238tnvcfj8fjqi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.ilkbizde",
+                "app_store_id": "6471280510"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

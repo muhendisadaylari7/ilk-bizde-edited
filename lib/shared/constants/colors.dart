@@ -1,0 +1,82 @@
+// ignore_for_file: constant_identifier_names
+
+import 'package:flutter/material.dart';
+
+class AppColors {
+  AppColors._();
+
+  static const Color ASHENVALE_NIGHTS = Color(0xFF123E70);
+  static const Color OBSIDIAN_SHARD = Color(0xFF040415);
+  static const Color BLACK = Color(0xFF000000);
+  static const Color WHITE = Color(0xFFFFFFFF);
+  static const Color BERRY_CHALK = Color(0xFFA8AFB9);
+  static const Color DEEP_VELVET = Color(0xFF323247);
+  static const Color TETSU_KON_BLUE = Color(0xFF0C1A4B);
+  static const Color FENNEL_FIESTA = Color(0xFF00B374);
+  static const Color BLUE_RIBBON = Color(0xFF0066FF);
+  static const Color HORNET_STING = Color(0xFFFF002E);
+  static const Color FADED_RED = Color(0xFFD64751);
+  static const Color DUGONG = Color(0xFF716F6F);
+  static const Color IMAGINATION = Color(0xFFE0DFF1);
+  static const Color GREEK_SEA = Color(0xFF6FAAEE);
+  static const Color MILLION_GREY = Color(0xFF999999);
+  static const Color CYAN_SKY = Color(0xFF00B8B8);
+  static const Color FLUORESCENT_RED = Color(0xFFFF5656);
+  static const Color SILVER = Color(0xFFC0C0C0);
+  static const Color HARD_COAL = Color(0xFF646464);
+  static const Color VALHALLA = Color(0xFF252B42);
+  static const Color WHARF_VIEW = Color(0xFF637381);
+  static const Color NAVAL_NIGHT = Color(0xFF06183A);
+  static const Color REBECCA_PURPLE = Color(0xFF5E3A9E);
+  static const Color CORBEAU = Color(0xFF111724);
+  static const Color BRUSHED_METAL = Color(0xFFC8C8C8);
+  static const Color LIGHTISH_BLUE = Color(0xFF3C76F1);
+  static const Color CHROMAPHOBIC_BLACK = Color(0xFF292929);
+  static const Color ZHELEZNOGORSK_YELLOW = Color(0xFFFEF200);
+  static const Color BANANA_CLAN = Color(0xFFEBE008);
+  static const Color CLEAR_CHILL = Color(0xFF168FFF);
+  static const Color PERSIAN_RED = Color(0xFFCC3333);
+  static const Color VERDANT_OASIS = Color(0xFF64C661);
+  static const Color YANG_CHENG_ORANGE = Color(0xFFF5A240);
+  static const Color BITCOIN = Color(0xFFFFBB0D);
+  static const Color RELIQUIAL_ROSE = Color(0xFFFF1D89);
+  static const Color FUZZY_DUCKLING = Color(0xFFFFEC70);
+  static const Color DRYAD_BARK = Color(0xFF33302E);
+  static const Color AQUA_FOREST = Color(0xFF5DB075);
+  static const Color NOGHREI_SILVER = Color(0xFFBDBDBD);
+  static const Color STELLAR_BLUE = Color(0xFF9DB2CE);
+  static const Color ZHEN_ZHU_BAI_PEARL = Color(0xFFF6F8FA);
+  static const Color SHY_MOMENT = Color(0xFF828C99);
+  static const Color BAI_SE_WHITE = Color(0xFFECEEF0);
+  static const Color AMBIENCE_WHITE = Color(0xFFE7E6E6);
+  static const Color SILVERSTONE = Color(0xFFB2B3B4);
+  static const Color ALOHA = Color(0xFF14B28E);
+  static const Color CHEERFUL_YELLOW = Color(0xFFFFC71E);
+  static const Color STEEL = Color(0xFF7A7A7A);
+  static const Color BRANDEIS_BLUE = Color(0xFF0072FF);
+  static const Color WHITE_SMOKE = Color(0xFFF5F5F5);
+  static const Color CASCADING_WHITE = Color(0xFFF6F6F6);
+  static const Color UNICORN_SILVER = Color(0xFFE8E8E8);
+  static const Color USC_GOLD = Color(0xFFFFCC00);
+  static const Color ROMAN_EMPIRE_RED = Color(0xFFE61513);
+  static const Color SO_SHY = Color(0xFFDAD6D6);
+  static const Color COLD_GREY = Color(0xFF9F9F9F);
+  static const Color COLD_MORNING = Color(0xFFE5E5E5);
+  static const Color EDGE_OF_BLACK = Color(0xFF54595E);
+  static const Color GLOOMY_PURPLE = Color(0xFF875DE2);
+  static const Color TOXIC_ORANGE = Color(0xFFFF5E39);
+  static const Color MATCH_STRIKE = Color(0xFFFFA945);
+  static const Color LIGHT_GREEN_GLINT = Color(0xFFE6FBD4);
+  static const Color BLUE_DIAMOND = Color(0xFF1064BE);
+  static const Color GREEN_WRASSE = Color(0xFF13E01D);
+  static const Color RED = Color(0xFFFF0000);
+  static const Color BALLET_CREAM = Color(0xFFFD8256);
+  static const Color JELLYFISH_STING = Color(0xFFEE628E);
+  static const Color OROCHIMARU = Color(0xFFD9D9D9);
+  // DARK THEME COLORS
+  static const Color SOOTY = Color(0xFF141414);
+  static const Color BLACK_WASH = Color(0xFF0D0D0D);
+  static const Color TRAPPED_DARKNESS = Color(0xFF061C31);
+  static const Color VOLUPTUOUS_VIOLET = Color(0xFF6E0AD6);
+  static const Color SAILER_MOON = Color(0xFFFFED00);
+}
